@@ -9,6 +9,12 @@ import { MdFacebook } from "react-icons/md";
 import { AiFillInstagram } from "react-icons/ai";
 import { HiMiniGlobeAsiaAustralia } from "react-icons/hi2";
 
+export const metadata = {
+  title: 'Céleste Consulting',  // Set the title for this page
+  description: 'Digital Business Card of Céleste Consulting'
+};
+
+
 const page = () => {
   return (
     <>
@@ -70,8 +76,8 @@ const page = () => {
             </a>
             <a
               className="my-4 flex items-center justify-center md:mt-5"
-              href="/Rishabh Céleste Consulting.vcf"
-              download={"Rishabh Céleste Consulting"}
+              href="/Rishabh Celeste Consulting.vcf"
+              download={"Dr. Varun Agarwal"}
             >
               <button className="w-[90vw] rounded-xl bg-indigo-300 p-3 text-base transition-all duration-300 hover:bg-indigo-500 hover:text-white active:bg-black-100 active:text-white md:w-[80vw] md:p-3 md:px-6 lg:w-[25vw]">
                 <span className="ml-4 flex items-center justify-start gap-x-4 md:ml-12 md:gap-x-6">

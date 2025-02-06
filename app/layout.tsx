@@ -10,17 +10,17 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Dr. Varun Agarwal MD",
-  description: "Cactus Jack Dermatology",
+  // title: "Dr. Varun Agarwal MD",
+  // description: "Cactus Jack Dermatology",
   // other: {
   //   "twitter:card": "Asclepius 2024",
   //   "og:url": "https://asclepius2024.in",
   //   "og:type": "website",
   // },
   icons: {
-    icon: ["/favicon.ico"],
-    apple: ["/apple-touch-icon.png"],
-    shortcut: ["/apple-touch-icon.png"],
+    icon: ["/images/favicon.ico"],
+    apple: ["/images/apple-touch-icon.png"],
+    shortcut: ["/images/apple-touch-icon.png"],
   },
 };
 
