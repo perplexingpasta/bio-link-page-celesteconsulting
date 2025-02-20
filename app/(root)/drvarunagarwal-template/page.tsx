@@ -127,11 +127,11 @@ const page = () => {
 
         {/* SOCIAL ICONS */}
         <section className="mb-20 flex flex-row items-center justify-center space-x-4 text-3xl md:mb-24 md:space-x-6 md:text-4xl">
-          <a href="mailto:hello@celesteconsulting.in" target="_blank">
-            <IoMdMail />
-          </a>
           <a href="https://www.celesteconsulting.in/" target="_blank">
             <HiMiniGlobeAsiaAustralia />
+          </a>
+          <a href="mailto:hello@celesteconsulting.in" target="_blank">
+            <IoMdMail />
           </a>
           <a
             href="https://www.facebook.com/people/Celeste-Consulting/61561819893146/"
